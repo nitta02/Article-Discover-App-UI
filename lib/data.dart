@@ -8,14 +8,22 @@ class Article {
   final int shares;
   bool isLiked = false;
 
-  Article(this.title, this.image, this.comments, this.likes, this.isLiked,
-      this.location, this.shares, this.author);
+  Article(
+    this.title,
+    this.image,
+    this.comments,
+    this.likes,
+    this.isLiked,
+    this.location,
+    this.shares,
+    this.author,
+  );
 }
 
 List<Article> articles = [
   Article(
       'Japan\'s second largest metropolitan area',
-      'https://images.wallpaperscraft.com/image/pagoda_architecture_sunlight_131905_1920x1080.jpg',
+      'https://fatstacksblog.com/wp-content/uploads/2019/11/Person-writing-article-nov26.jpg',
       100,
       32000,
       true,
@@ -24,7 +32,7 @@ List<Article> articles = [
       'Hussain Mustafa'),
   Article(
       'Known as the sleepless town for obvious reasons',
-      'https://images.wallpaperscraft.com/image/night_lights_buildings_railway_station_ueno_tokyo_59511_1920x1080.jpg',
+      'https://i1.wp.com/blogsmedia.lse.ac.uk/blogs.dir/9/files/2019/10/hands.jpg?ssl=1',
       300,
       50000,
       true,
@@ -33,7 +41,7 @@ List<Article> articles = [
       'Tim Salvatore'),
   Article(
       'Japan\'s second largest metropolitan area',
-      'https://images.wallpaperscraft.com/image/street_neon_night_city_139596_1920x1080.jpg',
+      'https://blogsmedia.lse.ac.uk/blogs.dir/9/files/2018/02/headway-537308.jpg',
       200,
       10000,
       true,
