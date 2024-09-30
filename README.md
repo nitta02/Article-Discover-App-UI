@@ -20,6 +20,4 @@ This Project basically design for artcicles discover app ui.
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
 ## Screenshots
-
-
-![article_discover](https://github.com/nitta02/Article-Discover-App/assets/110607962/2915b5cb-38bd-42a7-ba08-d7aba8388acb)
+![articlediscover](https://github.com/user-attachments/assets/16f9ab9e-7b09-4766-a348-78fd13cc7b1a)
